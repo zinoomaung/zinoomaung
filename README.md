@@ -1,40 +1,32 @@
 # Hi there, I'm Zin Oo Maung 👋
 
-I'm a full-stack developer with 6 years of experience, comfortable working with Laravel, CakePHP, AWS Lambda (Node.js), React Native, Flutter, Ionic, and MERN Stack. Additionally, I can also work with CI/CD and Docker. I have proven experience in creating complex logic software in the Japanese IT environment. I am quickly adaptable and organized well in teams and individually. I am seeking further improvement in Native Mobile Development skills as a future full-stack developer.
+A full-stack developer with 6 years of experience, comfortable working with Laravel, CakePHP, AWS Lambda (Node.js), React Native, Flutter, Ionic, and MERN Stack. Additionally, I can also work with CI/CD and Docker. I am quickly adaptable and organized well in teams and individually.
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zinoomaung&label=Profile%20views&color=0e75b6&style=flat" alt="zinoomaung" /> </p>
 
 ## 🛠️ Technologies & Tools
 
-### Languages
-- PHP (Laravel, CakePHP)
-- JavaScript (ReactJs, NodeJs, ExpressJs)
-- React Native
-- Flutter
-- Ionic (Angular, React)
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
 
-### Technologies
-- AWS Lambda, S3, API Gateway, DynamoDB
-- PostgreSQL, SQL
-- ZOOM APIs, Twilio APIs, Vimeo APIs
-- CI/CD
-- Docker
+## 🏆 Personal Mobile Projects
+- **1 Project** - Ionic with React
+- **4 Projects** - React Native
+- **6 Projects** - Ionic with Angular
 
-### Tools
-- GitHub Action
-- GitLab
-- Docker
-- Jira
-- ClickUp
-  
 ## 🌱 Currently leading and developing over 8 projects
 - ensuring successful delivery and continuous improvement.
 
+## 🏫 Education
+- **Bachelor of Computer Science (B.C.Sc.)**  
+
+## 🗣️ Languages
+- English (Intermediate)
+- Japanese (JLPT N3)
+
 ## ✌️ Get in Touch
 - **Email**: [zinoomaungtrz@gmail.com](mailto:zinoomaungtrz@gmail.com)
-- **LinkedIn**: [zinoomaung](https://linkedin.com/in/zinoomaung)
-- **GitHub**: [zinoomaung](https://github.com/zinoomaung)
-- **GitLab**: [zinoomaung](https://gitlab.com/zinoomaung)
-
-## 😄 Pronouns
-- He/Him
+- **LinkedIn**: [linkedin.com/in/zinoomaung](https://linkedin.com/in/zinoomaung)
+- **GitHub**: [github.com/zinoomaung](https://github.com/zinoomaung)
+- **GitLab**: [gitlab.com/zinoomaung](https://gitlab.com/zinoomaung)
 
 ## 💞️ I'm always excited about new opportunities and challenges. Let's connect and make something amazing together!
